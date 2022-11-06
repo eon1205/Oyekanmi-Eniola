@@ -34,7 +34,7 @@ void revstr(char *str1)
         
           
           
-        // call reverseString() function
+        // call revstr() function to reverse the word
         
         revstr(word);  
         printf (" The reverse of the word you entered is: %s", word);  
